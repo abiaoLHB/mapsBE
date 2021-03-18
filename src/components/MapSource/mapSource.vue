@@ -164,14 +164,6 @@
                 this.multipleSelection = val;
             },
             delAllSelection() {
-                // const length = this.multipleSelection.length;
-                // let str = '';
-                // this.delList = this.delList.concat(this.multipleSelection);
-                // for (let i = 0; i < length; i++) {
-                //     str += this.multipleSelection[i].name + ' ';
-                // }
-                // this.$message.error(`删除了${str}`);
-                // this.multipleSelection = [];
             },
             /**
              * 点击查看
